@@ -1,0 +1,9 @@
+body{
+    background:repeat;
+    background: url(3.jpg);
+    background-size:cover;
+}
+.class{
+    margin-top:180px;
+    margin-left:750px;
+}
